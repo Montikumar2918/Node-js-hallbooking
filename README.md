@@ -2,6 +2,7 @@ Nodejs-HallBooking :-
 
 use the link https://hall-books.herokuapp.com/createrooms with post method
 the request body should be like below:-
+
 {  
   "roomname" : "Sweedon",
 	"seats" : 50,
